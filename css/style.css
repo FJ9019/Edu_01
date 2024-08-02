@@ -715,7 +715,7 @@ body {
 /* ------------ upcoming meetings ------------ */
 
 section.upcoming-meetings {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(../img/meetings-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -924,7 +924,7 @@ section.apply-now .item p {
 
 /* ------------ courses ------------ */
 section.our-courses {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(../img/meetings-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1476,15 +1476,6 @@ section.meetings-page .pagination ul li a:hover {
 .templatemo-item-col {
 	width: 31%;
 }
-
-
-
-
-
-
-
-
-
 
 
 
